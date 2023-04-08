@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaeekh al jahan
-- 👀 I’m interested in competitve programming, NLP, Bioinformatics photography, politics
+- 👀 I’m interested in competitve programming, NLP, Bioinformatics, Photography, Politics
 - 🌱 I’m currently preparing for higher studies
 - 📫 How to reach me - email: shaeekhshuvro@gmail.com
 
