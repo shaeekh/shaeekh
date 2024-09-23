@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shaeekh al jahan
-- 👀 I’m interested in competitve programming, NLP, Bioinformatics, Machine Learning and Deep Learning
-- 🌱 I’m currently preparing for higher studies
+- 👋 Hi, I’m @shaeekh al jahan, a Computer Science PhD Student at the University of Memphis
+- 👀 I’m interested in competitve programming, NLP, Bioinformatics, Multimodal Cognitive Analysis Machine Learning and Deep Learning
 - 📫 How to reach me - email: shaeekhshuvro@gmail.com
 
 <!---
